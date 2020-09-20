@@ -1,0 +1,2 @@
+This project is not created by me. I am just trying it out to learn how to create chat room using socket.io.
+Link to project : https://www.youtube.com/watch?v=jD7FnbI76Hg&list=LL&index=7&t=0s&ab_channel=TraversyMedia
